@@ -35,7 +35,7 @@
                     <a class="btn btn-primary" href="{{ route('products.edit',Sproduct->id) }}">Editar</a>
                     @csrf 
                     @method ("DELETE') 
-                    <button type="submit" class="btn btn-danger">Eliminar</button>
+                    <button type="submit" class="btn btn-danger">Eliminar a</button>
                 </form>
             </td>
         </tr>
